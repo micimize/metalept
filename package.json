@@ -1,0 +1,22 @@
+{
+  "name": "metalept",
+  "version": "0.0.1",
+  "description": "*STUB* program metadata with es6 templates and microformats",
+  "main": "./dist/index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/micimize/metalept.git"
+  },
+  "author": "Michael Joseph Rosenthal <rosenthalm93@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/micimize/metalept/issues"
+  },
+  "homepage": "https://github.com/micimize/metalept#readme",
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
